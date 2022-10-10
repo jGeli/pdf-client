@@ -1,0 +1,105 @@
+{
+    "report_type": "LSGH-INVOICE",
+    "export_type": "pdf",
+    "key": "INV0000000580_20221010_1331",
+    "parser": "invoice",
+    "header": {
+        "invoice": {
+            "invoice_no": "INV0000000580",
+            "issued_on": "2022-12-30",
+            "due_date": "2023-01-30",
+            "ref_transaction_no": "TXN0000000600"
+        },
+        "bill_to": {
+            "fullname": "ARCILLA, Sebastian Gabriel B.",
+            "address": "106 Bldg 2, Union Civica St Quezon City"
+        },
+        "business": {
+            "name": "La Salle Green Hills, Inc.",
+            "address": "343, 1556 Ortigas Ave, Mandaluyong, Metro Manila"
+        }
+    },
+    "content": {
+        "data": [
+            {
+                "id": 1,
+                "code": "EA-001",
+                "name": "Tuition Fee",
+                "description": "Tuition Fee",
+                "uom": "Unit(s)",
+                "quantity": "1",
+                "price": "98249.25",
+                "surcharges": {
+                    "name": null,
+                    "type": "Percent",
+                    "value": 0
+                },
+                "deductibles": {
+                    "name": null,
+                    "type": "Exact",
+                    "value": 150
+                },
+                "taxes": {
+                    "name": null,
+                    "type": "Percent",
+                    "value": 12
+                },
+                "total_amount": "98099.25"
+            }
+        ],
+        "columns": [
+            [
+                {
+                    "title": "ITEM",
+                    "field": "name",
+                    "class": "",
+                    "align": "left"
+                },
+                {
+                    "title": "QTY",
+                    "field": "quantity",
+                    "class": "",
+                    "align": "center"
+                },
+                {
+                    "title": "UOM",
+                    "field": "uom",
+                    "class": "",
+                    "align": "center"
+                },
+                {
+                    "title": "Unit Price",
+                    "field": "price",
+                    "class": "",
+                    "align": "center"
+                },
+                {
+                    "title": "Tax",
+                    "field": "taxes",
+                    "class": "",
+                    "align": "center"
+                },
+                {
+                    "title": "Discount",
+                    "field": "deductibles",
+                    "class": "",
+                    "align": "center"
+                },
+                {
+                    "title": "Total",
+                    "field": "total_amount",
+                    "class": "",
+                    "align": "center"
+                }
+            ]
+        ]
+    },
+    "footer": {
+        "notes": "test12",
+        "sub_total": 98099.25,
+        "taxes_total": "25280.55",
+        "deductibles_total": "5443.21",
+        "surcharges_total": "10886.41",
+        "total_amount_due": "139587.86"
+    }
+}

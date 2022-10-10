@@ -1,0 +1,702 @@
+{
+    "report_type": "GRADEBOOKCONDUCT",
+    "export_type": "pdf",
+    "key": "Gradebook_GBKA-PENK-1st term-SY2021-2022-20221009-0846",
+    "content": {
+        "data": [
+            {
+                "id": 200184,
+                "name": [
+                    "ALMACHAR, Gavin Miguel S.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "49.1250",
+                "grade_ww": "25.7143",
+                "grade_total": [
+                    "74.8393",
+                    "text-danger",
+                    "color:red"
+                ],
+                "cp1_score": "9",
+                "cp1_grade": "92.8571",
+                "cp2_score": "7",
+                "cp2_grade": "78.5714",
+                "pt1_score": "12",
+                "pt1_grade": "85.7143",
+                "pt2_score": "0",
+                "pt2_grade": "65.0000",
+                "pt3_score": "0",
+                "pt3_grade": "65.0000",
+                "pt4_score": "0",
+                "pt4_grade": "65.0000",
+                "pt_average": "70.1786",
+                "pt_weighted": "70.1786",
+                "cp_average": "85.7143",
+                "cp_weighted": "85.7143"
+            },
+            {
+                "id": 200529,
+                "name": [
+                    "ARCEGA, Franco Alfonso T.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "64.1667",
+                "grade_ww": "30.0000",
+                "grade_total": "94.1667",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "14",
+                "pt1_grade": "95.2381",
+                "pt2_score": "12",
+                "pt2_grade": "85.7143",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "13",
+                "pt4_grade": "90.4762",
+                "pt_average": "91.6667",
+                "pt_weighted": "91.6667",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210456,
+                "name": [
+                    "BERNARDO, Rex Rheinaullt A.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "65.8333",
+                "grade_ww": "28.9286",
+                "grade_total": "94.7619",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "9",
+                "cp2_grade": "92.8571",
+                "pt1_score": "13",
+                "pt1_grade": "90.4762",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "94.0476",
+                "pt_weighted": "94.0476",
+                "cp_average": "96.4286",
+                "cp_weighted": "96.4286"
+            },
+            {
+                "id": 210038,
+                "name": [
+                    "CABALQUINTO, Alexander Lucas K.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "67.5000",
+                "grade_ww": "30.0000",
+                "grade_total": "97.5000",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "14",
+                "pt1_grade": "95.2381",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "96.4286",
+                "pt_weighted": "96.4286",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210039,
+                "name": [
+                    "CACAS, Ronan Gabriel I.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "69.1667",
+                "grade_ww": "30.0000",
+                "grade_total": "99.1667",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "15",
+                "pt3_grade": "100.0000",
+                "pt4_score": "15",
+                "pt4_grade": "100.0000",
+                "pt_average": "98.8095",
+                "pt_weighted": "98.8095",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210578,
+                "name": [
+                    "CONEJOS, Scarlet Henley S.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "68.3334",
+                "grade_ww": "30.0000",
+                "grade_total": "98.3334",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "15",
+                "pt3_grade": "100.0000",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "97.6191",
+                "pt_weighted": "97.6191",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210042,
+                "name": [
+                    "DELA LUNA, Ethan S.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "70.0000",
+                "grade_ww": "30.0000",
+                "grade_total": "100.0000",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "15",
+                "pt3_grade": "100.0000",
+                "pt4_score": "15",
+                "pt4_grade": "100.0000",
+                "pt_average": "100.0000",
+                "pt_weighted": "100.0000",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210459,
+                "name": [
+                    "ESTUDILLO, Ethan Raphael M.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "68.3334",
+                "grade_ww": "30.0000",
+                "grade_total": "98.3334",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "15",
+                "pt3_grade": "100.0000",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "97.6191",
+                "pt_weighted": "97.6191",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210736,
+                "name": [
+                    "EVANGELISTA, Benjamino Martino C.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "67.5000",
+                "grade_ww": "30.0000",
+                "grade_total": "97.5000",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "14",
+                "pt1_grade": "95.2381",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "96.4286",
+                "pt_weighted": "96.4286",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210969,
+                "name": [
+                    "GARIN, Nathan Zeus C.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "65.8333",
+                "grade_ww": "30.0000",
+                "grade_total": "95.8333",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "14",
+                "pt1_grade": "95.2381",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "13",
+                "pt3_grade": "90.4762",
+                "pt4_score": "13",
+                "pt4_grade": "90.4762",
+                "pt_average": "94.0476",
+                "pt_weighted": "94.0476",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210976,
+                "name": [
+                    "KIM, Ha Yul O.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "68.3334",
+                "grade_ww": "30.0000",
+                "grade_total": "98.3334",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "14",
+                "pt1_grade": "95.2381",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "15",
+                "pt3_grade": "100.0000",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "97.6191",
+                "pt_weighted": "97.6191",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 200111,
+                "name": [
+                    "LUNA, Julio Q.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "63.3333",
+                "grade_ww": "28.9286",
+                "grade_total": "92.2619",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "9",
+                "cp2_grade": "92.8571",
+                "pt1_score": "12",
+                "pt1_grade": "85.7143",
+                "pt2_score": "13",
+                "pt2_grade": "90.4762",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "13",
+                "pt4_grade": "90.4762",
+                "pt_average": "90.4762",
+                "pt_weighted": "90.4762",
+                "cp_average": "96.4286",
+                "cp_weighted": "96.4286"
+            },
+            {
+                "id": 210055,
+                "name": [
+                    "MATIBAG, Francesco Jose H.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "65.8333",
+                "grade_ww": "30.0000",
+                "grade_total": "95.8333",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "13",
+                "pt2_grade": "90.4762",
+                "pt3_score": "13",
+                "pt3_grade": "90.4762",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "94.0476",
+                "pt_weighted": "94.0476",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 200527,
+                "name": [
+                    "PEREZ, Chase Cassidey M.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "68.3334",
+                "grade_ww": "28.9286",
+                "grade_total": "97.2620",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "9",
+                "cp2_grade": "92.8571",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "15",
+                "pt4_grade": "100.0000",
+                "pt_average": "97.6191",
+                "pt_weighted": "97.6191",
+                "cp_average": "96.4286",
+                "cp_weighted": "96.4286"
+            },
+            {
+                "id": 210905,
+                "name": [
+                    "PUNZALAN, Julia Kassandra B.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "66.6667",
+                "grade_ww": "30.0000",
+                "grade_total": "96.6667",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "14",
+                "pt2_grade": "95.2381",
+                "pt3_score": "13",
+                "pt3_grade": "90.4762",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "95.2381",
+                "pt_weighted": "95.2381",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 200509,
+                "name": [
+                    "TEODORO, Angelo Emilio G.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "51.9616",
+                "grade_ww": "27.8572",
+                "grade_total": "79.8188",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "8",
+                "cp2_grade": "85.7143",
+                "pt1_score": "A",
+                "pt1_grade": [
+                    "0.00",
+                    "text-danger",
+                    "color:red"
+                ],
+                "pt2_score": "9",
+                "pt2_grade": "74.2308",
+                "pt3_score": "9",
+                "pt3_grade": "74.2308",
+                "pt4_score": "9",
+                "pt4_grade": "74.2308",
+                "pt_average": "74.2308",
+                "pt_weighted": "74.2308",
+                "cp_average": "92.8572",
+                "cp_weighted": "92.8572"
+            },
+            {
+                "id": 210563,
+                "name": [
+                    "VILLANUEVA, Sofia Lexie P.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "68.3334",
+                "grade_ww": "30.0000",
+                "grade_total": "98.3334",
+                "cp1_score": "10",
+                "cp1_grade": "100.0000",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "15",
+                "pt1_grade": "100.0000",
+                "pt2_score": "15",
+                "pt2_grade": "100.0000",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "97.6191",
+                "pt_weighted": "97.6191",
+                "cp_average": "100.0000",
+                "cp_weighted": "100.0000"
+            },
+            {
+                "id": 210988,
+                "name": [
+                    "VISAYA, Illac Philippe F.",
+                    "text-left",
+                    "text-align: left"
+                ],
+                "grade_pt": "65.0000",
+                "grade_ww": "28.9286",
+                "grade_total": "93.9286",
+                "cp1_score": "9",
+                "cp1_grade": "92.8571",
+                "cp2_score": "10",
+                "cp2_grade": "100.0000",
+                "pt1_score": "13",
+                "pt1_grade": "90.4762",
+                "pt2_score": "13",
+                "pt2_grade": "90.4762",
+                "pt3_score": "14",
+                "pt3_grade": "95.2381",
+                "pt4_score": "14",
+                "pt4_grade": "95.2381",
+                "pt_average": "92.8572",
+                "pt_weighted": "92.8572",
+                "cp_average": "96.4286",
+                "cp_weighted": "96.4286"
+            }
+        ],
+        "columns": [
+            [
+                {
+                    "title": "",
+                    "colspan": 5,
+                    "field": "",
+                    "style": "",
+                    "class": ""
+                },
+                {
+                    "title": "Class Participation",
+                    "field": "ww_cp",
+                    "colspan": 6,
+                    "style": "",
+                    "class": "bg-dark text-white"
+                },
+                {
+                    "title": "Performance Task",
+                    "field": "pt_pt",
+                    "colspan": 10,
+                    "style": "",
+                    "class": "bg-dark text-white"
+                }
+            ],
+            [
+                {
+                    "title": "Student",
+                    "field": "student",
+                    "colspan": 2,
+                    "class": "border-right"
+                },
+                {
+                    "title": "Grade",
+                    "field": "grade",
+                    "style": "",
+                    "class": "",
+                    "colspan": 3
+                },
+                {
+                    "title": "CP1",
+                    "field": "ww_cp",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "CP2",
+                    "field": "ww_cp",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "Calculated",
+                    "field": "ww_cp",
+                    "colspan": 2,
+                    "style": "",
+                    "class": ""
+                },
+                {
+                    "title": "PT1",
+                    "field": "pt_pt",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "PT2",
+                    "field": "pt_pt",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "PT3",
+                    "field": "pt_pt",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "PT4",
+                    "field": "pt_pt",
+                    "colspan": 2,
+                    "style": "",
+                    "class": "border-right"
+                },
+                {
+                    "title": "Calculated",
+                    "field": "pt_pt",
+                    "colspan": 2,
+                    "style": "",
+                    "class": ""
+                }
+            ],
+            [
+                {
+                    "title": "ID",
+                    "field": "id"
+                },
+                {
+                    "title": "Name",
+                    "field": "name"
+                },
+                {
+                    "title": "WW 30%",
+                    "field": "grade_ww"
+                },
+                {
+                    "title": "PT 70%",
+                    "field": "grade_pt"
+                },
+                {
+                    "title": "Total",
+                    "field": "grade_total"
+                },
+                {
+                    "title": "Score 10pts",
+                    "field": "cp1_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "cp1_grade"
+                },
+                {
+                    "title": "Score 10pts",
+                    "field": "cp2_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "cp2_grade"
+                },
+                {
+                    "title": "Average",
+                    "field": "cp_average"
+                },
+                {
+                    "title": "Weighted 100%",
+                    "field": "cp_weighted"
+                },
+                {
+                    "title": "Score 15pts",
+                    "field": "pt1_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "pt1_grade"
+                },
+                {
+                    "title": "Score 15pts",
+                    "field": "pt2_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "pt2_grade"
+                },
+                {
+                    "title": "Score 15pts",
+                    "field": "pt3_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "pt3_grade"
+                },
+                {
+                    "title": "Score 15pts",
+                    "field": "pt4_score"
+                },
+                {
+                    "title": "Grade",
+                    "field": "pt4_grade"
+                },
+                {
+                    "title": "Average",
+                    "field": "pt_average"
+                },
+                {
+                    "title": "Weighted 100%",
+                    "field": "pt_weighted"
+                }
+            ]
+        ]
+    },
+    "pageOptions": {},
+    "header": {
+        "name": "La Salle Green Hills Student Records Management",
+        "school_year": "S.Y. 2021-2022",
+        "curriculumn_code": "DS-K",
+        "start_date": "2021-08-15T16:00:00.000Z",
+        "end_date": "2022-07-29T16:00:00.000Z",
+        "start_year": "2021",
+        "end_year": "2022",
+        "grade_section": "A",
+        "term": "1st Term",
+        "grade_level": "Kinder",
+        "teachers": "Alejo, Dinah; Admin, Grading System",
+        "title": "Report on Periodic Grades",
+        "subject": "Penmanship",
+        "termTitle": "Term"
+    }
+}

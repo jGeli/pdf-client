@@ -1,0 +1,450 @@
+{
+    "report_type": "COMPOSITE",
+    "export_type": "pdf",
+    "content": {
+        "page_options": {
+            "fix_col": [
+                "id",
+                "name"
+            ],
+            "header": false,
+            "page_size": "legal"
+        },
+        "data": [
+            {
+                "no": 1,
+                "id": "201000",
+                "name": "BARDOS, Sheila S.",
+                "grade_ae-apg8": "91",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "83",
+                "letter_grade_ae-clg8": "B",
+                "grade_ae-eng8": "86",
+                "letter_grade_ae-eng8": "B+",
+                "grade_ae-filg8": "76",
+                "letter_grade_ae-filg8": "B-",
+                "grade_ae-mathg8": "77",
+                "letter_grade_ae-mathg8": "B-",
+                "grade_ae-scig8": "76",
+                "letter_grade_ae-scig8": "B-",
+                "grade_ae-comg8": "93",
+                "letter_grade_ae-comg8": "A-",
+                "grade_ae-tleg8": "94",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "81",
+                "letter_grade_ae-mapehg8": "B",
+                "grade_genave": "82.7200",
+                "letter_grade_genave": "B",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0,
+                "times_late": 0
+            },
+            {
+                "no": 2,
+                "id": "210997",
+                "name": "BAYLON, Justine D.",
+                "grade_ae-apg8": "88",
+                "letter_grade_ae-apg8": "B+",
+                "grade_ae-clg8": "87",
+                "letter_grade_ae-clg8": "B+",
+                "grade_ae-eng8": "91",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "87",
+                "letter_grade_ae-filg8": "B+",
+                "grade_ae-mathg8": "77",
+                "letter_grade_ae-mathg8": "B-",
+                "grade_ae-scig8": "77",
+                "letter_grade_ae-scig8": "B-",
+                "grade_ae-comg8": "91",
+                "letter_grade_ae-comg8": "A-",
+                "grade_ae-tleg8": "76",
+                "letter_grade_ae-tleg8": "B-",
+                "grade_ae-mapehg8": "79",
+                "letter_grade_ae-mapehg8": "B-",
+                "grade_genave": "83.5200",
+                "letter_grade_genave": "B",
+                "grade_conduct": "HS",
+                "grade_extra_cocur": "",
+                "days_absent": 9.5,
+                "times_late": 0
+            },
+            {
+                "no": 3,
+                "id": "201001",
+                "name": "BISDA, Marjorie A.",
+                "grade_ae-apg8": "93",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "83",
+                "letter_grade_ae-clg8": "B",
+                "grade_ae-eng8": "92",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "90",
+                "letter_grade_ae-filg8": "A-",
+                "grade_ae-mathg8": "83",
+                "letter_grade_ae-mathg8": "B",
+                "grade_ae-scig8": "82",
+                "letter_grade_ae-scig8": "B",
+                "grade_ae-comg8": "92",
+                "letter_grade_ae-comg8": "A-",
+                "grade_ae-tleg8": "92",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "88",
+                "letter_grade_ae-mapehg8": "B+",
+                "grade_genave": "87.6000",
+                "letter_grade_genave": "B+",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0.5,
+                "times_late": 0
+            },
+            {
+                "no": 4,
+                "id": "201004",
+                "name": "ENIERGA, George Kennedy P.",
+                "grade_ae-apg8": "78",
+                "letter_grade_ae-apg8": "B-",
+                "grade_ae-clg8": "75",
+                "letter_grade_ae-clg8": "B-",
+                "grade_ae-eng8": "79",
+                "letter_grade_ae-eng8": "B-",
+                "grade_ae-filg8": "75",
+                "letter_grade_ae-filg8": "B-",
+                "grade_ae-mathg8": "75",
+                "letter_grade_ae-mathg8": "B-",
+                "grade_ae-scig8": "72",
+                "letter_grade_ae-scig8": "C",
+                "grade_ae-comg8": "75",
+                "letter_grade_ae-comg8": "B-",
+                "grade_ae-tleg8": "76",
+                "letter_grade_ae-tleg8": "B-",
+                "grade_ae-mapehg8": "74",
+                "letter_grade_ae-mapehg8": "C",
+                "grade_genave": "75.5600",
+                "letter_grade_genave": "B-",
+                "grade_conduct": "HS",
+                "grade_extra_cocur": "",
+                "days_absent": 6,
+                "times_late": 0
+            },
+            {
+                "no": 5,
+                "id": "201006",
+                "name": "FIEL, Mary Claire S.",
+                "grade_ae-apg8": "87",
+                "letter_grade_ae-apg8": "B+",
+                "grade_ae-clg8": "86",
+                "letter_grade_ae-clg8": "B+",
+                "grade_ae-eng8": "92",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "84",
+                "letter_grade_ae-filg8": "B",
+                "grade_ae-mathg8": "76",
+                "letter_grade_ae-mathg8": "B-",
+                "grade_ae-scig8": "82",
+                "letter_grade_ae-scig8": "B",
+                "grade_ae-comg8": "93",
+                "letter_grade_ae-comg8": "A-",
+                "grade_ae-tleg8": "90",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "86",
+                "letter_grade_ae-mapehg8": "B+",
+                "grade_genave": "85.2000",
+                "letter_grade_genave": "B",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 1,
+                "times_late": 0
+            },
+            {
+                "no": 6,
+                "id": "201007",
+                "name": "GANTALAO, Ro-An G.",
+                "grade_ae-apg8": "83",
+                "letter_grade_ae-apg8": "B",
+                "grade_ae-clg8": "84",
+                "letter_grade_ae-clg8": "B",
+                "grade_ae-eng8": "75",
+                "letter_grade_ae-eng8": "B-",
+                "grade_ae-filg8": "74",
+                "letter_grade_ae-filg8": "C",
+                "grade_ae-mathg8": "80",
+                "letter_grade_ae-mathg8": "B",
+                "grade_ae-scig8": "78",
+                "letter_grade_ae-scig8": "B-",
+                "grade_ae-comg8": "86",
+                "letter_grade_ae-comg8": "B+",
+                "grade_ae-tleg8": "77",
+                "letter_grade_ae-tleg8": "B-",
+                "grade_ae-mapehg8": "85",
+                "letter_grade_ae-mapehg8": "B",
+                "grade_genave": "79.2000",
+                "letter_grade_genave": "B-",
+                "grade_conduct": "HS",
+                "grade_extra_cocur": "",
+                "days_absent": 17,
+                "times_late": 0
+            },
+            {
+                "no": 7,
+                "id": "201008",
+                "name": "GOMEZ, Aileen O.",
+                "grade_ae-apg8": "95",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "95",
+                "letter_grade_ae-clg8": "A-",
+                "grade_ae-eng8": "93",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "95",
+                "letter_grade_ae-filg8": "A-",
+                "grade_ae-mathg8": "89",
+                "letter_grade_ae-mathg8": "B+",
+                "grade_ae-scig8": "95",
+                "letter_grade_ae-scig8": "A-",
+                "grade_ae-comg8": "99",
+                "letter_grade_ae-comg8": "A",
+                "grade_ae-tleg8": "95",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "87",
+                "letter_grade_ae-mapehg8": "B+",
+                "grade_genave": "93.5600",
+                "letter_grade_genave": "A-",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0,
+                "times_late": 0
+            },
+            {
+                "no": 8,
+                "id": "201009",
+                "name": "LACABA, Desiree Laurice .",
+                "grade_ae-apg8": "83",
+                "letter_grade_ae-apg8": "B",
+                "grade_ae-clg8": "83",
+                "letter_grade_ae-clg8": "B",
+                "grade_ae-eng8": "86",
+                "letter_grade_ae-eng8": "B+",
+                "grade_ae-filg8": "82",
+                "letter_grade_ae-filg8": "B",
+                "grade_ae-mathg8": "83",
+                "letter_grade_ae-mathg8": "B",
+                "grade_ae-scig8": "82",
+                "letter_grade_ae-scig8": "B",
+                "grade_ae-comg8": "83",
+                "letter_grade_ae-comg8": "B",
+                "grade_ae-tleg8": "83",
+                "letter_grade_ae-tleg8": "B",
+                "grade_ae-mapehg8": "84",
+                "letter_grade_ae-mapehg8": "B",
+                "grade_genave": "83.2400",
+                "letter_grade_genave": "B",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 5,
+                "times_late": 0
+            },
+            {
+                "no": 9,
+                "id": "201010",
+                "name": "PANINGBATAN, Carl John H.",
+                "grade_ae-apg8": "92",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "87",
+                "letter_grade_ae-clg8": "B+",
+                "grade_ae-eng8": "94",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "87",
+                "letter_grade_ae-filg8": "B+",
+                "grade_ae-mathg8": "82",
+                "letter_grade_ae-mathg8": "B",
+                "grade_ae-scig8": "88",
+                "letter_grade_ae-scig8": "B+",
+                "grade_ae-comg8": "93",
+                "letter_grade_ae-comg8": "A-",
+                "grade_ae-tleg8": "93",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "88",
+                "letter_grade_ae-mapehg8": "B+",
+                "grade_genave": "88.8400",
+                "letter_grade_genave": "B+",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0.5,
+                "times_late": 0
+            },
+            {
+                "no": 10,
+                "id": "201012",
+                "name": "TANZO, Kenneth L.",
+                "grade_ae-apg8": "90",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "86",
+                "letter_grade_ae-clg8": "B+",
+                "grade_ae-eng8": "90",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "80",
+                "letter_grade_ae-filg8": "B",
+                "grade_ae-mathg8": "77",
+                "letter_grade_ae-mathg8": "B-",
+                "grade_ae-scig8": "81",
+                "letter_grade_ae-scig8": "B",
+                "grade_ae-comg8": "87",
+                "letter_grade_ae-comg8": "B+",
+                "grade_ae-tleg8": "93",
+                "letter_grade_ae-tleg8": "A-",
+                "grade_ae-mapehg8": "84",
+                "letter_grade_ae-mapehg8": "B",
+                "grade_genave": "84.6800",
+                "letter_grade_genave": "B",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0.5,
+                "times_late": 0
+            },
+            {
+                "no": 11,
+                "id": "201013",
+                "name": "TENEDERO, Angelica M.",
+                "grade_ae-apg8": "95",
+                "letter_grade_ae-apg8": "A-",
+                "grade_ae-clg8": "98",
+                "letter_grade_ae-clg8": "A",
+                "grade_ae-eng8": "95",
+                "letter_grade_ae-eng8": "A-",
+                "grade_ae-filg8": "95",
+                "letter_grade_ae-filg8": "A-",
+                "grade_ae-mathg8": "90",
+                "letter_grade_ae-mathg8": "A-",
+                "grade_ae-scig8": "93",
+                "letter_grade_ae-scig8": "A-",
+                "grade_ae-comg8": "100",
+                "letter_grade_ae-comg8": "A",
+                "grade_ae-tleg8": "96",
+                "letter_grade_ae-tleg8": "A",
+                "grade_ae-mapehg8": "89",
+                "letter_grade_ae-mapehg8": "B+",
+                "grade_genave": "94.2800",
+                "letter_grade_genave": "A-",
+                "grade_conduct": "O",
+                "grade_extra_cocur": "",
+                "days_absent": 0,
+                "times_late": 0
+            }
+        ],
+        "columns": [
+            [
+                {
+                    "title": "No",
+                    "field": "no"
+                },
+                {
+                    "title": "ID",
+                    "field": "id"
+                },
+                {
+                    "title": "Name",
+                    "field": "name"
+                },
+                {
+                    "title": "Araling Panlipunan",
+                    "field": [
+                        "letter_grade_ae-apg8",
+                        "grade_ae-apg8"
+                    ]
+                },
+                {
+                    "title": "Christian Living",
+                    "field": [
+                        "letter_grade_ae-clg8",
+                        "grade_ae-clg8"
+                    ]
+                },
+                {
+                    "title": "English",
+                    "field": [
+                        "letter_grade_ae-eng8",
+                        "grade_ae-eng8"
+                    ]
+                },
+                {
+                    "title": "Filipino",
+                    "field": [
+                        "letter_grade_ae-filg8",
+                        "grade_ae-filg8"
+                    ]
+                },
+                {
+                    "title": "Mathematics",
+                    "field": [
+                        "letter_grade_ae-mathg8",
+                        "grade_ae-mathg8"
+                    ]
+                },
+                {
+                    "title": "Science",
+                    "field": [
+                        "letter_grade_ae-scig8",
+                        "grade_ae-scig8"
+                    ]
+                },
+                {
+                    "title": "Computer",
+                    "field": [
+                        "letter_grade_ae-comg8",
+                        "grade_ae-comg8"
+                    ]
+                },
+                {
+                    "title": "TLE - Basic Electronics",
+                    "field": [
+                        "letter_grade_ae-tleg8",
+                        "grade_ae-tleg8"
+                    ]
+                },
+                {
+                    "title": "Music, Arts, Physical Education and Health",
+                    "field": [
+                        "letter_grade_ae-mapehg8",
+                        "grade_ae-mapehg8"
+                    ]
+                },
+                {
+                    "title": "General Average",
+                    "field": [
+                        "grade_genave",
+                        "letter_genave"
+                    ]
+                },
+                {
+                    "title": "Conduct",
+                    "field": "grade_conduct"
+                },
+                {
+                    "title": "Extra/Co-Cur",
+                    "field": "grade_extra_cocur"
+                },
+                {
+                    "title": "Days Absent",
+                    "field": "days_absent"
+                },
+                {
+                    "title": "Times Late",
+                    "field": "times_late"
+                }
+            ]
+        ]
+    },
+    "header": {
+        "name": "La Salle Green Hills",
+        "school_year": "S.Y. 2021-2022",
+        "term": "1st Term",
+        "grade_section": "Grade 8 - Section A-AE",
+        "teachers": "Co, John Vincent ",
+        "title": "School Year"
+    },
+    "footer": {
+        "download_time": "July 18, 2022 02:02:05 pm",
+        "user_account": "ingrid.rubio"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjozLCJhcHBzIjoiMSIsInRlbmFudF9pZCI6IjEiLCJ0b2tlbiI6ImV5SnJhV1FpT2lKc2VuRXJZVm93VURWaE1rRkJOMnR3VlZJMlIzVkJXbE0yTmtOM09UQjBXbFZNVENzMk5GbHpabWhSUFNJc0ltRnNaeUk2SWxKVE1qVTJJbjAuZXlKemRXSWlPaUkyTUdFNU9EWm1NeTFpWXpZeUxUUmtZamt0WWpObU5TMHlPRFpsWTJGbU56UXpOamNpTENKcGMzTWlPaUpvZEhSd2N6cGNMMXd2WTI5bmJtbDBieTFwWkhBdVlYQXRjMjkxZEdobFlYTjBMVEV1WVcxaGVtOXVZWGR6TG1OdmJWd3ZZWEF0YzI5MWRHaGxZWE4wTFRGZmEydERSalYwWm5rMElpd2lZMnhwWlc1MFgybGtJam9pWTJScmRHRndaSFJ5TldadE0yVTJjMjkxY213ME9UWTFZeUlzSW05eWFXZHBibDlxZEdraU9pSTRNakV6WXpOa09DMHlaRGcyTFRRM1pqUXRPR0U1TXkwd1ptUTVOMlZpWkdVME5UY2lMQ0psZG1WdWRGOXBaQ0k2SW1RMFpXVXhOVEkyTFRjeU4yVXROR014WXkxaU5tUmhMV1kyTW1RMVltWTJNakJqTmlJc0luUnZhMlZ1WDNWelpTSTZJbUZqWTJWemN5SXNJbk5qYjNCbElqb2lZWGR6TG1OdloyNXBkRzh1YzJsbmJtbHVMblZ6WlhJdVlXUnRhVzRpTENKaGRYUm9YM1JwYldVaU9qRTJOVGd4TWpNNU5EQXNJbVY0Y0NJNk1UWTFPREV5TnpVME1Td2lhV0YwSWpveE5qVTRNVEl6T1RReExDSnFkR2tpT2lJMU5qY3pORFk1TlMxa01HUTFMVFEzTWpJdFlqRm1PQzFrTXpOaU56QTBORGcyWkRRaUxDSjFjMlZ5Ym1GdFpTSTZJbWx1WjNKcFpDNXlkV0pwYnlKOS5VSmpLeVVZQ0pFWkZVbzNQbXl1QTdnU2FZYVFrMzFMbmZVN2U5eDd4QjJZRDNobTFBNC11c3VLNnFlcTR0eThXZWZXRjBmaDQyWG12WjMtb3Zjd2M0TEt2UEFpd0FxQkN0d0d4NXpUdFg1UlNqV2FrYnQ0cVB0akJfbUg1OUZKNC1GOFdwLTRoOEtKUWhsZDBGLUlGQ1hsdlJjeC1pVVNucS1ad1dXQWEteUE0WjFZV1NqbWNKU0I3QUVtMlhhbzlrRWFFR3ZQQ0J2endTd3NCRUJoRVh5RmstZU16MmdLSFFBYjI0Nl9DdUZHazh2Q2dnT3N5OGtrSVRHXzVNNjl3M1laX25sU3IxbFFKdV9OS05JdWdjX09jM2ttS195YzN2RGphaTVkRzBldjlscVB5dEpvZmZDT21vOGVrcVNGZzNPTlFGSFZRQ0pjdHA4YzVvM0ZOMHciLCJyb2xlIjoiQWRtaW4iLCJDbGllbnRJZCI6ImNka3RhcGR0cjVmbTNlNnNvdXJsNDk2NWMiLCJVc2VyUG9vbElkIjoiYXAtc291dGhlYXN0LTFfa2tDRjV0Znk0IiwiaWF0IjoxNjU4MTIzOTQxfQ.OUpdHo7HAibn8fFgpgk64Hsm10r2Qk5UD-ZkUFWYhdk"
+}
